@@ -1,4 +1,3 @@
 script: "rake test"
 notifications:
-  recipients:
-    - james@floehopper.org
+  disabled: true
